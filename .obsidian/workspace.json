@@ -11,10 +11,14 @@
             "id": "ef46702bf9878e65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "架构表达/未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9ee43e57dacfba7d",
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "架构表达/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "架构表达/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "架构表达/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -163,12 +170,12 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,5 +189,17 @@
     }
   },
   "active": "ef46702bf9878e65",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "并发/MDC 与 TransmittableThreadLocal 实现上下文透传.md",
+    "架构表达/未命名.md",
+    "架构表达",
+    "三高架构/01-高并发用户下单.md",
+    "并发",
+    "spring/三级缓存.md",
+    "中间件/线程池治理.md",
+    "中间件/本地计数器.md",
+    "三高架构",
+    "中间件",
+    "spring"
+  ]
 }
